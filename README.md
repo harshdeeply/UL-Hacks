@@ -5,3 +5,4 @@ In order to install the project dependencies, please make sure you have _Python 
 
 ## Database setup:
 This project uses MySQL as the database. Make sure you have MySQL installed on your system. Then, run the queries provided in the _db_setup.sql_ file.
+NOTE: Don't forget to configure your DB configs in _app.py_!
